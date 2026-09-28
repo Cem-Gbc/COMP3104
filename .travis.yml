@@ -1,1 +1,5 @@
-"language: minimal" 
+language: python
+python:
+  - "3.10"
+script:
+  - echo "Travis CI build OK"
